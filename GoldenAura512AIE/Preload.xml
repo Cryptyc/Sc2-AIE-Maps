@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="LightOmniYellow"/>
+<Actor id="AiurTree_Ex2" Variations="3,4,5"/>
+<Actor id="Aiur_City_GapFiller"/>
+<Actor id="Aiur_City_Ramps" Variations="0,1,2"/>
+<Actor id="Aiur_Cliff_City_Waterfall" Variations="0"/>
+<Actor id="Aiur_GroundConsole" Variations="1"/>
+<Actor id="Elsecaro_Bush1x1" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush2x2" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush4x4" Variations="0,1,2,3,4"/>
+<Actor id="IceWorldCurtain" Variations="0,1,2,3"/>
+<Actor id="JarbanMinor_Large_Rock" Variations="1,3,4,5"/>
+<Actor id="JarbanMinor_Medium_Rock" Variations="0,1,2,4,6,7,8,9"/>
+<Actor id="JarbanMinor_Medium_Rock_Group" Variations="0,1,2,3,4,5,7"/>
+<Actor id="JarbanMinor_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="ProtossCratesDoodad" Variations="2,4,6"/>
+<Actor id="ProtossTarmacSplat"/>
+<Actor id="ProtossWarpInPadFlat"/>
+<Actor id="Protoss_Base_GroundTrim" Variations="2,3,4,5,10,11,13,15,18"/>
+<Actor id="Protoss_Base_RoadEntry" Variations="1"/>
+<Actor id="ZerusWaterPlant" Variations="1,2,3,5,10"/>
+<Actor id="AiurProtossBuildingsSmall" Variations="0"/>
+<Actor id="TempleColumnSet" Variations="1,5,6,7"/>
+<Actor id="TarsonisArrow"/>
+<Actor id="Logo_LeaguePrimary"/>
+<Actor id="Logo_LeagueSecondary"/>
+<Actor id="Logo_PlayerPrimary"/>
+<Actor id="Logo_PlayerSecondary"/>
+<Terrain id="Slayn"/>
+<Unit id="RichMineralField" Variations="0,1,7"/>
+<Unit id="RichMineralField750" Variations="1,4,5"/>
+<Unit id="XelNagaTower"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="UnbuildablePlatesDestructible" Variations="1"/>
+<Unit id="ProtossVespeneGeyser"/>
+<Unit id="DestructibleRockEx16x6"/>
+<Unit id="DestructibleRockEx1DiagonalHugeBLUR"/>
+<Unit id="Crabeetle"/>
+<Unit id="PurifierMineralField" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Unit id="PurifierMineralField750" Variations="0,1,2,3,4,5,6,7,8,9"/>
+</Preload>

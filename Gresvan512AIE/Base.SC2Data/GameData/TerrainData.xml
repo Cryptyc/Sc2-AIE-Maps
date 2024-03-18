@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="Gresvan">
+        <EditorCategories value="Climate:Wasteland"/>
+        <Lighting value="PurificationDesert"/>
+        <LoadingScreen value="Assets\Textures\loading-marsara.dds"/>
+        <TextureProp value="marsara"/>
+        <Camera value="Installation"/>
+        <Ambience value="Ambience_MarSara"/>
+        <ReverbAmbient value="BetaVerb"/>
+        <BlendTextures value="DesertWorld1"/>
+        <BlendTextures value="Elsecaro5"/>
+        <BlendTextures value="KorhalWastes_8"/>
+        <BlendTextures value="KorhalCityEx2_4"/>
+        <BlendTextures value="ShakurasCity2"/>
+        <BlendTextures value="Purification_Desert_6"/>
+        <BlendTextures value="ShakurasTemple3"/>
+        <BlendTextures value="Purification_Desert_8"/>
+        <HardTiles value="MarSaraTile"/>
+        <CliffSets value="PurificationDesertCliff0"/>
+        <CliffSets value="PurificationDesertCliff1"/>
+        <CliffSets value="CompoundFacilityCliff0"/>
+        <CliffSets value="EndionProtossCliff1"/>
+        <FixedSkyboxModel value="MarSaraSkyBox"/>
+        <FogEnabled value="1"/>
+        <FogColor value="220,224,168,141"/>
+        <FogDensity value="0.150000"/>
+        <FogFalloff value="0.250000"/>
+        <FogStartingHeight value="-0.700000"/>
+        <FogDistanceFalloff value="2.000000"/>
+        <HeightMapEnabled value="1"/>
+    </CTerrain>
+</Catalog>
