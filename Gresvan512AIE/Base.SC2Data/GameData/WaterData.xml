@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="Shakuras">
+        <State index="0" Height="5.200000" Color="0.000000,0.282353,0.211765,0.477000" MeshRoughness="3.000000"/>
+    </CWater>
+</Catalog>
