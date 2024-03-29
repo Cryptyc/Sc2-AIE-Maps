@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="Elsecaro">
+        <ToDInfoArray index="0" AmbientColor="0.439216,0.466667,0.501961">
+            <Param index="HDRSpecMultiplier" value="1.550000"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

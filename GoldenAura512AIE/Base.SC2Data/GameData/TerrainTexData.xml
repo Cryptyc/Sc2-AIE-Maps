@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrainTex id="ShakurasSandDark">
+        <Normalmap value="Assets\Textures\tyrador_grassnormal.dds"/>
+    </CTerrainTex>
+</Catalog>

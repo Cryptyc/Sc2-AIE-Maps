@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="Agria">
+        <State index="0" Height="6.850000"/>
+    </CWater>
+    <CWater id="Albion">
+        <State index="0" Height="6.650000"/>
+    </CWater>
+    <CWater id="BelShir">
+        <State index="0">
+            <Height value="6.150000"/>
+            <Color value="0.658824,0.658824,1.000000,0.038000"/>
+            <ColorFallOff value="0.089000"/>
+            <MeshRoughness value="1.446000"/>
+        </State>
+        <Doodads index="0">
+            <Model value="Fish"/>
+            <Density value="0.000000"/>
+            <MinSize value="3.000000"/>
+            <MaxSize value="4.000000"/>
+            <Lifetime value="90"/>
+        </Doodads>
+    </CWater>
+    <CWater id="Char">
+        <State index="0" Height="5.000000"/>
+    </CWater>
+    <CWater id="CharAcid">
+        <State index="0" Height="4.250000"/>
+    </CWater>
+    <CWater id="Niflheim">
+        <State index="0" Height="5.450000"/>
+    </CWater>
+    <CWater id="Redstone">
+        <State index="0" Height="1.500000"/>
+    </CWater>
+    <CWater id="Shakuras">
+        <State index="0" Height="5.450000" Color="1.000000,0.035294,0.035294,0.160000"/>
+    </CWater>
+</Catalog>
