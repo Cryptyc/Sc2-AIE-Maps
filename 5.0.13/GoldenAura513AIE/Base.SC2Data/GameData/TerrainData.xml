@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="Slayn">
+        <BlendTextures index="0" value="Cybros8"/>
+        <BlendTextures index="1" value="AiurCity2"/>
+        <BlendTextures index="2" value="AiurCity8"/>
+        <BlendTextures index="3" value="Aiur4City4"/>
+        <BlendTextures index="4" value="ShakurasTemple3"/>
+        <BlendTextures index="6" value="UlnarPortal8"/>
+        <BlendTextures index="7" value="ShakurasSandDark"/>
+        <CliffSets value="ProtossBaseManmadeCliffs"/>
+    </CTerrain>
+</Catalog>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="Redstorm">
+        <ToDInfoArray index="0" AmbientColor="0.705882,0.603922,0.545098">
+            <Param index="HDRExposure" value="1.400000"/>
+            <Param index="HDRBloomThreshold" value="0.900000"/>
+            <DirectionalLight index="Key">
+                <Color value="0.866667,0.643137,0.643137"/>
+                <ColorMultiplier value="1.100000"/>
+                <SpecularColor value="0.882353,0.627451,0.592157"/>
+                <SpecColorMultiplier value="1.150000"/>
+                <Direction value="0.384602,-0.480750,-0.788011"/>
+            </DirectionalLight>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

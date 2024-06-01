@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="PurificationDesert">
+        <ToDInfoArray index="0" Id="PurificationDesert" AmbientColor="0.521569,0.466667,0.400000">
+            <DirectionalLight index="Key" Color="0.901961,0.764706,0.658824" ColorMultiplier="1.259000"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

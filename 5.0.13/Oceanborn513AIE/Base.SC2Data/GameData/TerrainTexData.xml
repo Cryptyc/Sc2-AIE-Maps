@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrainTex id="Char2_1">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="DesertWorld1">
+        <HeightMapScale value="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="Elsecaro5">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="Korhal3">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="KorhalCity5">
+        <HeightMapScale value="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="MonlythCracked">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="NewFolsomDirt">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="NewFolsomDirtCracked">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="PortCityB6">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="RedstoneDirt">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="Valhalla1">
+        <HeightMapScale value="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="Valhalla2">
+        <HeightMapScale value="1.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="Zerus4">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+    <CTerrainTex id="ZhakulDasMercuryCracks">
+        <HeightMapScale value="2.000000"/>
+    </CTerrainTex>
+</Catalog>

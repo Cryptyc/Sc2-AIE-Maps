@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="BrokenRocksSmall" Variations="2"/>
+<Actor id="DefendersCity_GreenBelt" Variations="1"/>
+<Actor id="Elsecaro_Large_Rock_NoShadow" Variations="1"/>
+<Actor id="Fog_Shakuras_Windy"/>
+<Actor id="HalfStructurePlates" Variations="0,1,2,3"/>
+<Actor id="HybridShearedRocksLarge" Variations="0,1,2,3"/>
+<Actor id="InvisibleWalkablePlatform8x8"/>
+<Actor id="JarbanMinor_Medium_Rock_Group" Variations="0,1,2,3,4,6,7"/>
+<Actor id="JarbanMinor_SandDrifts" Variations="1,2"/>
+<Actor id="JarbanMinor_Small_Rock" Variations="0,1,2,3,4"/>
+<Actor id="JarbanMinor_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Korhal_Platform_GrimeSplats" Variations="0"/>
+<Actor id="Moopy" Variations="12"/>
+<Actor id="Protoss_Base_OmniLights" Variations="0,2,3"/>
+<Actor id="PurificationDesert_Blast_Splats" Variations="1"/>
+<Actor id="Rock_Cliff" Variations="0,1,2,3,4,5"/>
+<Actor id="Shakuras_TallGrass" Variations="0,1,2,3,4,5,6"/>
+<Actor id="Tarsonis_GroundTrims" Variations="9"/>
+<Actor id="UmojanLabCellTable"/>
+<Actor id="UmojanLabCliffStructure" Variations="0"/>
+<Actor id="UmojanLabCliffWallsTall" Variations="0,1,2"/>
+<Actor id="UmojanLabCrates" Variations="0,1,3,4"/>
+<Actor id="UmojanLabDebrisDoodad" Variations="0,2,4"/>
+<Actor id="UmojanLabDissectionArm"/>
+<Actor id="UmojanLabDissectionTable" Variations="2"/>
+<Actor id="UmojanLabFloodLights" Variations="2"/>
+<Actor id="UmojanLabGlassWallPanel" Variations="1,2"/>
+<Actor id="UmojanLabLabGate" Variations="0"/>
+<Actor id="UmojanLabMonitorFloor" Variations="1,2"/>
+<Actor id="UmojanLabPillar1High" Variations="0,1"/>
+<Actor id="UmojanLabPlatformCellMassive" Variations="0"/>
+<Actor id="UmojanLabPowerConduit"/>
+<Actor id="UmojanLabTestTube" Variations="1,6"/>
+<Actor id="UmojanLabWallCap" Variations="4,6"/>
+<Actor id="UmojanLabWallConsoles" Variations="0,1,2"/>
+<Actor id="UmojanLabWallPanel1High" Variations="3"/>
+<Actor id="UmojanLabWeaponCase" Variations="1"/>
+<Actor id="UmojanLabZergCage"/>
+<Actor id="UmojanLabZergChamberLarge" Variations="0,3"/>
+<Actor id="TerranCliffGapFiller" Variations="0,2"/>
+<Actor id="KorhalCurtain" Variations="2"/>
+<Actor id="PipesCorner45" Variations="1"/>
+<Actor id="PipesLong" Variations="0"/>
+<Actor id="Spires" Variations="0,1,2,3,4,5,7"/>
+<Actor id="StoreFrontNeonTubes" Variations="0"/>
+<Actor id="MeinhoffCurtain" Variations="0,1,2,3"/>
+<Actor id="XelNagaHullReactorConduit" Variations="0,1"/>
+<Actor id="Logo_LeaguePrimary"/>
+<Actor id="Logo_LeagueSecondary"/>
+<Actor id="Logo_PlayerPrimary"/>
+<Actor id="Logo_PlayerSecondary"/>
+<Terrain id="HybridLabOuter"/>
+<Unit id="RichMineralField" Variations="3,5,9"/>
+<Unit id="RichMineralField750" Variations="1,2,9"/>
+<Unit id="XelNagaTower"/>
+<Unit id="RichVespeneGeyser"/>
+<Unit id="KarakFemale"/>
+<Unit id="MineralField" Variations="0,2,3,4,5,6,7,8,9"/>
+<Unit id="MineralField750" Variations="0,1,2,3,4,5,6,7"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="UnbuildablePlatesDestructible" Variations="2,7"/>
+<Unit id="CleaningBot"/>
+<Unit id="DestructibleRockEx14x4"/>
+<Unit id="DestructibleRockEx16x6"/>
+<Unit id="DestructibleRockEx1HorizontalHuge"/>
+<Unit id="LabMineralField" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Unit id="LabMineralField750" Variations="0,2,3,4,5,6,7,8,9"/>
+<Unit id="PurifierVespeneGeyser"/>
+</Preload>

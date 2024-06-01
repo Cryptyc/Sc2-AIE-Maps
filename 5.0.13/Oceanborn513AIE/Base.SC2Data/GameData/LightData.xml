@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CLight id="Slayn">
+        <ToDInfoArray index="0" AmbientColor="0.901961,0.949020,0.956863">
+            <Param index="ColorizationBrightness" value="1.138000"/>
+            <Param index="ColorizationContrast" value="1.247000"/>
+            <Param index="ColorizationHue" value="0.008000"/>
+            <Param index="ColorizationSaturation" value="-0.038000"/>
+            <Param index="ColorizationLightness" value="0.016000"/>
+            <Param index="ColorizationBlend" value="0.000000"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

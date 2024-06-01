@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="LightOmniCyanLarge"/>
+<Actor id="DOM_Crate" Variations="0,1,2,3,4"/>
+<Actor id="DOM_GroundTrims" Variations="0,1,9"/>
+<Actor id="DOM_Rocket" Variations="0,2"/>
+<Actor id="DOM_Table_WarRoom" Variations="2"/>
+<Actor id="DOM_VentTower" Variations="0"/>
+<Actor id="DOM_Walls_Caps_Interior" Variations="0"/>
+<Actor id="Elsecaro_Buoy" Variations="1"/>
+<Actor id="Elsecaro_Bush2x2" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush4x4" Variations="0,4"/>
+<Actor id="Elsecaro_Catamaran" Variations="2"/>
+<Actor id="Elsecaro_Jet_Ski" Variations="0"/>
+<Actor id="Elsecaro_Medium_Rock" Variations="9"/>
+<Actor id="Elsecaro_Medium_Rock_Group" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Elsecaro_SandDrifts" Variations="0,1,2,3"/>
+<Actor id="Elsecaro_SeaShell_Terrain_Splat" Variations="0,1,2,3,4,5"/>
+<Actor id="Elsecaro_SeaWeeds" Variations="0,1,2,3,4,5"/>
+<Actor id="Elsecaro_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Elsecaro_Waves"/>
+<Actor id="JarbanMinor_IndustrialGarage" Variations="3"/>
+<Actor id="Korhal_SiegeTank_Destroyed"/>
+<Actor id="Korhal_SpacePort_Container" Variations="0,1"/>
+<Actor id="MoebiusLabBrokenMule" Variations="1"/>
+<Actor id="Terran_Target_Splat"/>
+<Actor id="Void_GoldPiles" Variations="0,2,3,5"/>
+<Actor id="ZerusCurtain" Variations="0,1,2,3"/>
+<Actor id="BelShirTree" Variations="4,5,6"/>
+<Actor id="BraxisAlphaBioDome" Variations="2"/>
+<Actor id="BunkerWrecked"/>
+<Actor id="NewFolsomSandbags" Variations="5"/>
+<Actor id="PipesLong" Variations="0"/>
+<Actor id="PortZionTires" Variations="2"/>
+<Actor id="SpacePlatformGroundDecals" Variations="8,9,15"/>
+<Actor id="WreckedMule" Variations="0,1"/>
+<Actor id="WreckedSandbags" Variations="0"/>
+<Actor id="ColonistSupplyCrate" Variations="2,3"/>
+<Actor id="Logo_LeaguePrimary"/>
+<Actor id="Logo_LeagueSecondary"/>
+<Actor id="Logo_PlayerPrimary"/>
+<Actor id="Logo_PlayerSecondary"/>
+<Terrain id="Elsecaro"/>
+<Unit id="MineralField" Variations="7"/>
+<Unit id="MineralField750" Variations="6"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="SpacePlatformGeyser"/>
+<Unit id="DestructibleRock6x6"/>
+<Unit id="DestructibleRampDiagonalHugeBLUR"/>
+<Unit id="UnbuildableRocksDestructible" Variations="0"/>
+<Unit id="LabMineralField" Variations="9"/>
+<Unit id="LabMineralField750" Variations="5"/>
+</Preload>

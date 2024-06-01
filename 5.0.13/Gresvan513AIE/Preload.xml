@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="Aiur_Archway_Abandoned" Variations="2,3,5,7,9,10,11,12,13"/>
+<Actor id="Aiur_CityBuilding_Spire_Abandoned" Variations="0,1"/>
+<Actor id="Aiur_CityBuilding_Temple_Abandoned" Variations="0,1"/>
+<Actor id="Aiur_CityBuilding_Tower_Abandoned" Variations="0,1"/>
+<Actor id="Aiur_City_Archway_Large_Abandoned" Variations="0,1,2"/>
+<Actor id="Aiur_City_Debris" Variations="0,2,3"/>
+<Actor id="Aiur_City_GapFiller_Abandoned"/>
+<Actor id="Aiur_PowerCrystal"/>
+<Actor id="Aiur_Pyramid_Tower_Medium_Abandoned" Variations="2"/>
+<Actor id="Aiur_Rock_Cliff" Variations="1,2"/>
+<Actor id="DecalSpace" Variations="3,6"/>
+<Actor id="Elsecaro_Foliage" Variations="0,7,8,17,18,19,20"/>
+<Actor id="GenericBuildingRubble" Variations="1"/>
+<Actor id="Moopy" Variations="12"/>
+<Actor id="Protoss_Base_GroundTrim_Destroyed" Variations="3,4,5,9,12,13,14,18,19"/>
+<Actor id="Protoss_Base_Pads" Variations="0"/>
+<Actor id="PurificationDesert_Large_Rock" Variations="0,2,3,6"/>
+<Actor id="PurificationDesert_Medium_Rock_Group" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="PurificationDesert_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Rock_Cliff" Variations="0,1,2,3,4,5"/>
+<Actor id="Shadow_Tarmac_Splat" Variations="5"/>
+<Actor id="Shakuras_TallGrass" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="StarshipIceWorldFlora" Variations="2"/>
+<Actor id="Tarsonis_BuildingWall_Concrete_Straight_Destroyed" Variations="3,5"/>
+<Actor id="Tarsonis_Building_Barricade" Variations="1"/>
+<Actor id="BelShirCliffGapFiller"/>
+<Actor id="BelShirCanopyTrees" Variations="0,1,2,3,4,5,6"/>
+<Actor id="KorhalCurtain" Variations="0,2"/>
+<Actor id="RockLarge" Variations="10"/>
+<Actor id="RooftopAC" Variations="2"/>
+<Actor id="ShakurasCliffGapFiller"/>
+<Actor id="KorhalBuildingDebris" Variations="0,2,5,6,7"/>
+<Actor id="Logo_LeaguePrimary"/>
+<Actor id="Logo_LeagueSecondary"/>
+<Actor id="Logo_PlayerPrimary"/>
+<Terrain id="Gresvan"/>
+<Unit id="Lyote"/>
+<Unit id="KarakMale"/>
+<Unit id="KarakFemale"/>
+<Unit id="Dog" Variations="0,2"/>
+<Unit id="MineralField" Variations="0,1,2,4,5,8,9"/>
+<Unit id="MineralField750" Variations="1,2,3,5,6,7,8"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="SpacePlatformGeyser"/>
+<Unit id="UnbuildableBricksDestructible" Variations="6"/>
+<Unit id="ProtossVespeneGeyser"/>
+<Unit id="DestructibleRockEx1DiagonalHugeBLUR"/>
+<Unit id="LabMineralField" Variations="1,2,3,4,5,6,7"/>
+<Unit id="LabMineralField750" Variations="1,2,4,5,6,7,8"/>
+</Preload>
