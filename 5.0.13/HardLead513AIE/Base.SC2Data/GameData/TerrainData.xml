@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="Redstorm">
+        <BlendTextures index="0" value="Redstorm_7"/>
+        <BlendTextures index="1" value="JarbanMinor_Jungle4"/>
+        <BlendTextures index="2" value="Redstorm_5"/>
+        <BlendTextures index="3" value="ShadowCorps7"/>
+        <BlendTextures index="4" value="MarSaraDarkSandEx2"/>
+        <BlendTextures index="5" value="BattleStation_5"/>
+        <BlendTextures index="6" value="HybridLabInner7"/>
+        <BlendTextures index="7" value="HybridLabInner6"/>
+        <FogColor value="255,113,149,47"/>
+        <HeightMapEnabled value="0"/>
+        <CliffSets index="0" value="RedstoneEx1Cliff0"/>
+        <CliffSets index="1" value="SlaynCliff1"/>
+        <CliffSets value="AvernusEx1Cliff1"/>
+        <NonFixedSkyboxModel value="AiurSkybox"/>
+    </CTerrain>
+</Catalog>

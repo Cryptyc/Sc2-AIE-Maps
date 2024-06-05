@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="HybridLabOuter">
+        <CliffSets index="0" value="LabCliff1"/>
+        <CliffSets index="1" value="LabCliff0"/>
+        <CliffSets value="MoebiusLabCliff0"/>
+        <FixedSkyboxModel value=""/>
+        <Lighting value="CustomLight"/>
+        <HideLowestLevel value="0"/>
+        <BlendTextures index="0" value="UmojaEx3_3"/>
+        <BlendTextures index="1" value="KorhalPlatform5"/>
+        <BlendTextures index="2" value="HybridLabOuter6"/>
+        <BlendTextures index="3" value="KorhalWastes_2"/>
+        <BlendTextures index="4" value="KorhalOutskirts3"/>
+        <BlendTextures index="5" value="KorhalWastes_1"/>
+        <BlendTextures index="6" value="KorhalWastes_6"/>
+        <BlendTextures index="7" value="KorhalOutskirts2"/>
+        <HeightMapEnabled value="1"/>
+        <FogDensity value="0.180000"/>
+        <FogFalloff value="0.190000"/>
+        <FogEnabled value="1"/>
+        <LoadingScreen value="Assets\Textures\loading-valhalla.dds"/>
+    </CTerrain>
+</Catalog>
