@@ -165,4 +165,3 @@ Upgrade/Name/HurricaneThrusters=Hurricane Engines
 Upgrade/Name/LurkerRange=Seismic Spines
 Upgrade/Name/MicrobialShroud=Microbial Shroud
 Upgrade/Name/TempestGroundAttackUpgrade=Tectonic Destabilizers
-
