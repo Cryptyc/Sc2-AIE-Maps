@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Una serie pequeños puentes y rampas ayudan a defender y hacen que el control de las posiciones sea más importante. Destruye las rocas para abrir rutas de ataque más grandes y sin obstáculos por el terreno elevado.<n/><n/>Enviado al concurso de mapas de Teamliquid.<n/>Creado por: -NegativeZero-
+DocInfo/DescShort=1 vs 1
+DocInfo/Name=Efímero EJ
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

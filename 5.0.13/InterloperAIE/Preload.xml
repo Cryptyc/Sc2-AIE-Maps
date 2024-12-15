@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="AiurTree_Ex2" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="BattleStation_Line_Decals" Variations="22"/>
+<Actor id="Elsecaro_Bush1x1" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush2x2" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Bush4x4" Variations="0,1,2,3,4"/>
+<Actor id="Elsecaro_Foliage" Variations="16"/>
+<Actor id="Elsecaro_GroundCover" Variations="1,2,3"/>
+<Actor id="Elsecaro_Large_Rock" Variations="0,1,2,3,4,6"/>
+<Actor id="Elsecaro_Large_Rock_NoShadow" Variations="1,2,3,4,5"/>
+<Actor id="Elsecaro_Medium_Rock" Variations="0,1,3,4,5,6,7,8,9"/>
+<Actor id="Elsecaro_Medium_Rock_Group" Variations="0,1,2,3,4,6,7"/>
+<Actor id="Elsecaro_Medium_Rock_NoShadow_Group" Variations="0,1,2,3"/>
+<Actor id="Elsecaro_SandDriftsSplat" Variations="2"/>
+<Actor id="Elsecaro_SeaShell" Variations="7"/>
+<Actor id="Elsecaro_SeaShell_Group" Variations="0,2,3,4"/>
+<Actor id="Elsecaro_SeaWeeds_Group" Variations="0,1,2,3"/>
+<Actor id="Elsecaro_Small_Rock" Variations="0,1,2,3,4,5"/>
+<Actor id="Elsecaro_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Elsecaro_Small_Rock_NoShadow_Group" Variations="1,2,3"/>
+<Actor id="Korhal_TarmacSplat" Variations="1"/>
+<Actor id="MilitarySupplies" Variations="6"/>
+<Actor id="Purifier_Rock_Blend" Variations="3,4,6"/>
+<Actor id="TerranCliffGapFiller" Variations="2"/>
+<Actor id="InvisibleCurtain"/>
+<Actor id="BelShirCurtain" Variations="0,1,2,3"/>
+<Actor id="Birds"/>
+<Actor id="Crate" Variations="0,3,5"/>
+<Actor id="Decal" Variations="0"/>
+<Actor id="FanVentCliff" Variations="0"/>
+<Actor id="MarSaraCrack" Variations="3,4"/>
+<Actor id="PipesCorner" Variations="3"/>
+<Actor id="PipesLong" Variations="0,2,3"/>
+<Actor id="PipesShort" Variations="0,1"/>
+<Actor id="SpacePlatformHatch"/>
+<Actor id="Logo_LeaguePrimary"/>
+<Actor id="Logo_LeagueSecondary"/>
+<Actor id="Logo_PlayerPrimary"/>
+<Actor id="Logo_PlayerSecondary"/>
+<Terrain id="Elsecaro"/>
+<Unit id="MineralField" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Unit id="MineralField750" Variations="0,1,2,3,4,6,7,8,9"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="SpacePlatformGeyser"/>
+<Unit id="UnbuildableRocksDestructible" Variations="2"/>
+<Unit id="CollapsibleRockTower"/>
+<Unit id="DestructibleRockEx16x6"/>
+<Unit id="Crabeetle"/>
+</Preload>

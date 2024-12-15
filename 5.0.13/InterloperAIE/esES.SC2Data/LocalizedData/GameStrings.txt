@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Toma uno de los cinco caminos para llegar hasta tu oponente o destruye las rocas para despejar el paso.<n/><n/>Creado por: -NegativeZero- /// Take one of five paths to reach your opponent, or destroy the rocks to allow free movement between any of them.<n/><n/>Created by: -NegativeZero-
+DocInfo/DescShort=1 vs 1
+DocInfo/Name=Intruso EJ
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

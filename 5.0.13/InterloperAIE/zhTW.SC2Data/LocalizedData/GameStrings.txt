@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=進軍路線共有五條，只要毀掉岩石障礙物的話，就能隨時改道。<n/><n/>創作者：-NegativeZero- /// Take one of five paths to reach your opponent, or destroy the rocks to allow free movement between any of them.<n/><n/>Created by: -NegativeZero-
+DocInfo/DescShort=1對1
+DocInfo/Name=闖入禁地 - 天梯版 /// Interloper LE
+MapInfo/Player00/Name=中立
+MapInfo/Player01/Name=玩家1
+MapInfo/Player02/Name=玩家2
+MapInfo/Player03/Name=敵對

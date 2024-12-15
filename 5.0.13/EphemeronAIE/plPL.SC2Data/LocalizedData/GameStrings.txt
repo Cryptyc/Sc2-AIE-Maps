@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Seria niewielkich mostów i ramp pomaga w obronie i wymaga od graczy dobrej orientacji w terenie. Zniszcz skały, aby uzyskać dostęp do większych, bardziej otwartych dróg ataku biegnących wzdłuż podwyższeń terenu.<n/><n/>Mapa zgłoszona do konkursu Teamliquid.<n/>Autor: -NegativeZero- /// A series of small bridges and ramps aid in defense and emphasize positional awareness.  Destroy the rocks to open up larger, unobstructed attack paths across the high grounds.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: -NegativeZero-
+DocInfo/DescShort=1 na 1
+DocInfo/Name=Efemeryda ER /// Ephemeron LE
+MapInfo/Player00/Name=Neutralny
+MapInfo/Player01/Name=Gracz 1
+MapInfo/Player02/Name=Gracz 2
+MapInfo/Player03/Name=Wróg

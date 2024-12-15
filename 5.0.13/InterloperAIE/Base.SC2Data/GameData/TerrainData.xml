@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrain id="Elsecaro">
+        <CliffSets value="KorhalOutskirtsCliff1"/>
+        <BlendTextures index="1" value="Elsecaro3"/>
+        <BlendTextures index="2" value="Elsecaro5"/>
+        <BlendTextures index="3" value="Elsecaro6"/>
+        <BlendTextures index="4" value="AgriaRock"/>
+        <BlendTextures index="5" value="TarsonisRubble"/>
+        <BlendTextures index="6" value="KorhalOutskirts8"/>
+        <BlendTextures index="7" value="KorhalOutskirts1"/>
+    </CTerrain>
+    <CTerrain id="Endion">
+        <Lighting value="Elsecaro"/>
+        <BlendTextures index="1" value="Elsecaro3"/>
+        <BlendTextures index="5" value="AgriaRock"/>
+        <BlendTextures index="6" value="TarsonisRubble"/>
+        <BlendTextures index="7" value="Elsecaro1"/>
+    </CTerrain>
+</Catalog>

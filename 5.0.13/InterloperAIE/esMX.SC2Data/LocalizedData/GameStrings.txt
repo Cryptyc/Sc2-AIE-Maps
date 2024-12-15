@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Toma uno de los cinco caminos para llegar hasta tu oponente o destruye las rocas para moverte libremente entre ellos.<n/><n/>Creado por: -NegativeZero-
+DocInfo/DescShort=1 vs. 1
+DocInfo/Name=Intruso EE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

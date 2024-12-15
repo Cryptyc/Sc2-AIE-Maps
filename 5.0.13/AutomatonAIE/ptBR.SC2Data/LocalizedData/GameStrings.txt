@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Este mapa inclui bases principais que são relativamente próximas viajando pelo ar, mas as expansões são mais protegidas.<n/><n/>Inscrito no Concurso de Mapas da Teamliquid<n/>Criado por: RQM /// This map features main bases that are relatively close together by air, but the expansions are more protected.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: RQM
+DocInfo/DescShort=1x1 /// 1v1
+DocInfo/Name=Autômato LE /// Automaton LE
+MapInfo/Player00/Name=Neutro /// Neutral
+MapInfo/Player01/Name=Jogador 1 /// Player 1
+MapInfo/Player02/Name=Jogador 2 /// Player 2
+MapInfo/Player03/Name=Inimigo /// Hostile

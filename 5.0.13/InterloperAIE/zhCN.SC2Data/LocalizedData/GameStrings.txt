@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=有五条路线可以进攻对手，不过要记得摧毁各路之间的岩石才能畅通无阻。<n/><n/>作者：-NegativeZero- /// Take one of five paths to reach your opponent, or destroy the rocks to allow free movement between any of them.<n/><n/>Created by: -NegativeZero-
+DocInfo/DescShort=1v1
+DocInfo/Name=闯星 - 天梯版 /// Interloper LE
+MapInfo/Player00/Name=中立
+MapInfo/Player01/Name=玩家1
+MapInfo/Player02/Name=玩家2
+MapInfo/Player03/Name=敌对

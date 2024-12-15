@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Várias pontes e rampas ajudam na defesa e reforçam a percepção do posicionamento. Destrua as rochas para abrir rotas maiores de ataque desobstruídas em terrenos elevados.<n/><n/>Enviado para o Concurso Teamliquid de Mapas<n/>Criado por: -NegativeZero-
+DocInfo/DescShort=1x1
+DocInfo/Name=Efeméride LE
+MapInfo/Player00/Name=Neutro
+MapInfo/Player01/Name=Jogador 1
+MapInfo/Player02/Name=Jogador 2
+MapInfo/Player03/Name=Inimigo

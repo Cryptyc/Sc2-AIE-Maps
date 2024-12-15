@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Eine Reihe von kleinen Brücken und Rampen helfen bei der Verteidigung und belohnen gute Positionierung. Zerstören Sie die Felsen, um breitere Angriffswege auf erhöhtem Terrain freizumachen.<n/><n/>Eingereicht zum Kartenwettbewerb von TeamLiquid<n/>Entwickelt von -NegativeZero- /// A series of small bridges and ramps aid in defense and emphasize positional awareness.  Destroy the rocks to open up larger, unobstructed attack paths across the high grounds.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: -NegativeZero-
+DocInfo/DescShort=1vs1
+DocInfo/Name=Ephemeron LE /// Ephemeron LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Spieler 1
+MapInfo/Player02/Name=Spieler 2
+MapInfo/Player03/Name=Feindlich

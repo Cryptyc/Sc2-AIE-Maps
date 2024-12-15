@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Auf dieser Karte gibt es kleine Mineralienfelder mit nur 5 Mineralien, die von Arbeitern in einem einzigen Arbeitsschritt abgebaut werden können. Auf diese Weise lassen sich neue Expansionen oder Angriffswege erschließen.<n/><n/>Eingereicht zum Kartenwettbewerb von TeamLiquid<n/>Entwickelt von RQM
+DocInfo/DescShort=1vs1
+DocInfo/Name=Donnervogel LE /// Thunderbird LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Spieler 1
+MapInfo/Player02/Name=Spieler 2
+MapInfo/Player03/Name=Feindlich

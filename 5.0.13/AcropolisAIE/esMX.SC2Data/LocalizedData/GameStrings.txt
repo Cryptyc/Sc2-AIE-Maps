@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Acrópolis es un mapa relativamente pequeño para las macrojugadas. Las expansiones verticales para una tercera base son más fáciles de obtener y proteger en este mapa. El área en el medio fomenta el conflicto directo durante el comienzo de la partida. La destrucción de rocas genera más pasajes abiertos.<n/><n/>Enviado al Concurso de mapas de Teamliquid<n/>Creado por: RQM /// Acropolis is a relatively small map for macro plays. Vertical third base expansions are easier to acquire and protect on this map. The area in the middle encourages direct conflict in the early game. Destroying rocks leads to more open passages.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: RQM
+DocInfo/DescShort=1 vs. 1 /// 1v1
+DocInfo/Name=Acrópolis EE /// Acropolis LE
+MapInfo/Player00/Name=Neutral /// Neutral
+MapInfo/Player01/Name=Jugador 1 /// Player 1
+MapInfo/Player02/Name=Jugador 2 /// Player 2
+MapInfo/Player03/Name=Hostil /// Hostile

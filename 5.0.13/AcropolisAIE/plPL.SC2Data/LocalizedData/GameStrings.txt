@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Akropol to relatywnie niewielka mapa pod makro-grę. Położone wzdłuż trzecie miejsca pod ekspansję są łatwe do zajęcia i obrony. Środkowy obszar zachęca do bezpośrednich starć na wczesnym etapie rozgrywki. Zniszczenie skał otwiera więcej dróg przejścia.<n/><n/>Mapa zgłoszona na konkurs Teamliquid<n/>Autor: RQM
+DocInfo/DescShort=1 na 1
+DocInfo/Name=Akropol ER
+MapInfo/Player00/Name=Neutralny
+MapInfo/Player01/Name=Gracz 1
+MapInfo/Player02/Name=Gracz 2
+MapInfo/Player03/Name=Wróg

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Sumérgete en el hermoso mundo de las profundidades. Las rocas te ayudarán a tomar el control, pero ten cuidado con tu flanco o te convertirás en otro tesoro oculto...<n/><n/>Creado por:<n/>SidianTheBard
+DocInfo/DescShort=1 contra 1
+DocInfo/Name=Arrecife abisal EE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

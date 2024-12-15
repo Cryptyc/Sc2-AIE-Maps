@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="LightOmniBlue"/>
+<Actor id="AiurTree_Ex2" Variations="0,1,2,3,4,5"/>
+<Actor id="AiurTree_Grouped" Variations="2,3,4,5"/>
+<Actor id="Aiur_Rock_Cliff_Jungle" Variations="0,1,2,3,4,5"/>
+<Actor id="Aiur_Rock_Cliff_Jungle_Chunks" Variations="4"/>
+<Actor id="CompoundSewer_Pipes" Variations="11,12,13,14"/>
+<Actor id="DecalSpace" Variations="3"/>
+<Actor id="Elsecaro_Bush2x2" Variations="0"/>
+<Actor id="Elsecaro_Bush4x4" Variations="1"/>
+<Actor id="Elsecaro_GroundCover" Variations="0,1,2,3,4,5"/>
+<Actor id="Elsecaro_Large_Rock" Variations="2,3,4"/>
+<Actor id="Elsecaro_Medium_Rock_Group" Variations="0,1,2,3,5,6"/>
+<Actor id="Elsecaro_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="GenericBuildingRubble" Variations="0,1,2,3,4"/>
+<Actor id="HybridWallPillar1High" Variations="0"/>
+<Actor id="HybridWallPillar2High" Variations="2"/>
+<Actor id="MilitarySupplies" Variations="4,6"/>
+<Actor id="Moopy" Variations="8,9,10"/>
+<Actor id="Purifier_Foliage" Variations="0,1,2,3,4,5,7,8"/>
+<Actor id="RoadMetalStraight" Variations="2"/>
+<Actor id="Shadow_Tarmac_Splat" Variations="5,6"/>
+<Actor id="SpaceDockEquipment" Variations="2"/>
+<Actor id="SpacePlatformScaffold" Variations="1"/>
+<Actor id="TerranCliffGapFiller" Variations="1,2"/>
+<Actor id="InvisibleCurtain"/>
+<Actor id="BelShirCurtain" Variations="0,1,2,3"/>
+<Actor id="BelShirTree" Variations="0,1,2,3,7"/>
+<Actor id="BraxisAlphaBioDome" Variations="2,4"/>
+<Actor id="ChainLinkFenceDiagonal" Variations="1"/>
+<Actor id="Crate" Variations="3,4,5"/>
+<Actor id="Garage" Variations="1"/>
+<Actor id="PipesCorner45" Variations="0,1"/>
+<Actor id="PipesLong" Variations="0,1,2,3"/>
+<Actor id="PipesLong45" Variations="2"/>
+<Actor id="PipesShort45" Variations="0"/>
+<Actor id="PipesStack" Variations="0"/>
+<Actor id="RockGiant" Variations="5"/>
+<Actor id="RubbleBuilding" Variations="0,1"/>
+<Actor id="SpacePlatformArchwayLarge" Variations="1,4"/>
+<Actor id="SpacePlatformFan" Variations="1"/>
+<Actor id="SpacePlatformHatch"/>
+<Actor id="SpacePlatformTower" Variations="0"/>
+<Actor id="TerranTarmac" Variations="6"/>
+<Actor id="Vines" Variations="0,2,3,4,5,6"/>
+<Actor id="WaterTank" Variations="0,1"/>
+<Actor id="WreckedVehicles" Variations="3"/>
+<Actor id="KorhalBuildingDebris" Variations="0,2,5,6,7"/>
+<Actor id="TarsonisCurtain" Variations="0,1,2,3"/>
+<Actor id="CliffScaffolding" Variations="1"/>
+<Actor id="ColonistHutBurntOut" Variations="3"/>
+<Actor id="Logo_LeaguePrimary"/>
+<Actor id="Logo_LeagueSecondary"/>
+<Actor id="Logo_PlayerPrimary"/>
+<Actor id="Logo_PlayerSecondary"/>
+<Terrain id="VolcanoIsle"/>
+<Unit id="UtilityBot"/>
+<Unit id="MineralField" Variations="0,2,3,5,8,9"/>
+<Unit id="MineralField750" Variations="1,4,5,8,9"/>
+<Unit id="VespeneGeyser"/>
+<Unit id="SpacePlatformGeyser"/>
+<Unit id="DestructibleDebrisRampDiagonalHugeBLUR"/>
+<Unit id="UnbuildablePlatesDestructible" Variations="0"/>
+<Unit id="DestructibleCityDebris6x6"/>
+<Unit id="LabMineralField" Variations="0,3,5,7,9"/>
+<Unit id="LabMineralField750" Variations="2,3,4,5,6,7,8,9"/>
+</Preload>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TriggerData>
+    <Root>
+        <Item Type="Trigger" Id="6CE613D8"/>
+    </Root>
+    <Element Type="Trigger" Id="6CE613D8">
+        <Event Type="FunctionCall" Id="4A688C84"/>
+        <Action Type="FunctionCall" Id="BB996A76"/>
+        <Action Type="FunctionCall" Id="1A98EF9E"/>
+        <Action Type="FunctionCall" Id="1D925B1D"/>
+        <Action Type="FunctionCall" Id="4B1CEBF3"/>
+    </Element>
+    <Element Type="FunctionCall" Id="4A688C84">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000120"/>
+    </Element>
+    <Element Type="FunctionCall" Id="BB996A76">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000143"/>
+    </Element>
+    <Element Type="FunctionCall" Id="1A98EF9E">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000145"/>
+    </Element>
+    <Element Type="FunctionCall" Id="1D925B1D">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000150"/>
+    </Element>
+    <Element Type="FunctionCall" Id="4B1CEBF3">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000148"/>
+    </Element>
+</TriggerData>

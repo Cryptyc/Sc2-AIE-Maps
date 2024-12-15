@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=衛城是一張尺寸相對較小的宏觀操作地圖。地圖上呈一直線的三座分基地，相當易於佔領及防禦。在對戰初期，敵我雙方相當容易在中央地方發生衝突。只要摧毀岩石，就能產生更加寬闊的路徑。<n/><n/>參加Teamliquid地圖競賽的作品<n/>創作者：RQM /// Acropolis is a relatively small map for macro plays. Vertical third base expansions are easier to acquire and protect on this map. The area in the middle encourages direct conflict in the early game. Destroying rocks leads to more open passages.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: RQM
+DocInfo/DescShort=1對1
+DocInfo/Name=衛城 - 天梯版 /// Acropolis LE
+MapInfo/Player00/Name=中立
+MapInfo/Player01/Name=玩家1
+MapInfo/Player02/Name=玩家2
+MapInfo/Player03/Name=敵對

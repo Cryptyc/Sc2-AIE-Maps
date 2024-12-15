@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Faites un plongeon dans un magnifique monde sous-marin. Les rochers vous aideront à prendre le contrôle de la zone, mais surveillez vos flancs si vous ne voulez pas finir englouti et oublié de tous.<n/><n/>Créée par :<n/>SidianTheBard
+DocInfo/DescShort=1c1
+DocInfo/Name=Récif abyssal EC
+MapInfo/Player00/Name=Neutre
+MapInfo/Player01/Name=Joueur 1
+MapInfo/Player02/Name=Joueur 2
+MapInfo/Player03/Name=Hostile

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Cette carte contient des gisements de minerai réduits valant 5 unités de minerai, ce qui permet aux ouvriers de les épuiser en un seul voyage. Les gisements peuvent être vidés pour accéder à des extensions ou ouvrir des voies d’attaque.<n/><n/>Présentée lors du concours de cartes organisé par Team Liquid.<n/>Créée par : RQM.
+DocInfo/DescShort=1c1
+DocInfo/Name=Oiseau de foudre EC
+MapInfo/Player00/Name=Neutre
+MapInfo/Player01/Name=Joueur 1
+MapInfo/Player02/Name=Joueur 2
+MapInfo/Player03/Name=Hostile

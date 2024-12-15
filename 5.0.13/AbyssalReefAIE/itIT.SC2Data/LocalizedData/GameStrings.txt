@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Esplorate le meraviglie del mondo sommerso. Le rocce aiutano a controllare il campo, ma se abbassate la guardia sui lati farete per sempre compagnia ai pesci...<n/><n/>Creata da:<n/>SidianTheBard
+DocInfo/DescShort=1v1
+DocInfo/Name=Barriera sommersa LE
+MapInfo/Player00/Name=Neutrale
+MapInfo/Player01/Name=Giocatore 1
+MapInfo/Player02/Name=Giocatore 2
+MapInfo/Player03/Name=Nemico

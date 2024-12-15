@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Acropolis est une carte relativement petite propice à la macro. Les extensions verticales sont en effet plus faciles à établir et à protéger. La zone centrale de la carte encourage un affrontement direct tôt dans la partie. Détruire les rochers permet d’ouvrir des passages plus larges.<n/><n/>Présentée lors du concours de cartes organisé par Team Liquid.<n/>Créée par : RQM.
+DocInfo/DescShort=1c1
+DocInfo/Name=Acropolis EC
+MapInfo/Player00/Name=Neutre
+MapInfo/Player01/Name=Joueur 1
+MapInfo/Player02/Name=Joueur 2
+MapInfo/Player03/Name=Hostile

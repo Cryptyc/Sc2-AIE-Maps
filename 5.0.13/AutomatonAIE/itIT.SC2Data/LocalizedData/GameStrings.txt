@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=La distanza aerea tra le basi è ridotta, ma le espansioni sono ben protette.<n/><n/>Inviata al concorso di Team Liquid.<n/>Creata da: RQM
+DocInfo/DescShort=1v1
+DocInfo/Name=Automa LE
+MapInfo/Player00/Name=Neutrale
+MapInfo/Player01/Name=Giocatore 1
+MapInfo/Player02/Name=Giocatore 2
+MapInfo/Player03/Name=Nemico

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Diversi ponti e rampe aiutano nella difesa e consentono di determinare al meglio il posizionamento. Distruggete le rocce per liberare vie d'attacco più ampie sulle alture.<n/><n/>Inviata al Teamliquid Map Contest<n/>Creata da: -NegativeZero-
+DocInfo/DescShort=1v1
+DocInfo/Name=Efemeron LE
+MapInfo/Player00/Name=Neutrale
+MapInfo/Player01/Name=Giocatore 1
+MapInfo/Player02/Name=Giocatore 2
+MapInfo/Player03/Name=Nemico

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Cette carte oppose des bases relativement proches par voie aérienne. Les extensions, elles, sont plus difficiles d’accès.<n/><n/>Présentée au concours de cartes organisé par TeamLiquid.<n/>Créée par RQM.
+DocInfo/DescShort=1c1
+DocInfo/Name=Mécanisation EC
+MapInfo/Player00/Name=Neutre
+MapInfo/Player01/Name=Joueur 1
+MapInfo/Player02/Name=Joueur 2
+MapInfo/Player03/Name=Hostile

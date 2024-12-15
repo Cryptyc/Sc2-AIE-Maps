@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CLight id="Elsecaro">
+        <ToDInfoArray index="0" Id="Elsecaro" AmbientColor="0.054902,0.215686,0.513726" Colorize="1">
+            <Param index="HDRExposure" value="1.490000"/>
+            <Param index="HDRWhitePoint" value="1.850000"/>
+            <Param index="TerrainSpecularExp" value="13.000000"/>
+            <Param index="TerrainHDRSpecular" value="3.750000"/>
+            <Param index="CreepSpecularExp" value="30.000000"/>
+            <Param index="CreepHDRSpecMultiplier" value="3.000000"/>
+            <Param index="ColorizationOutputLow" value="0.000000"/>
+            <Param index="ColorizationBrightness" value="1.000000"/>
+            <Param index="ColorizationContrast" value="1.066000"/>
+            <Param index="ColorizationHue" value="0.001000"/>
+            <Param index="ColorizationSaturation" value="0.000000"/>
+            <Param index="ColorizationBlend" value="0.300000"/>
+            <DirectionalLight index="Key" Color="0.784314,0.776471,0.768628" ColorMultiplier="1.000000" Direction="0.676743,-0.218582,-0.703023"/>
+            <DirectionalLight index="Fill" Color="0.184314,0.227451,0.235294" ColorMultiplier="3.000000" Direction="-0.499113,-0.618999,0.606405"/>
+            <DirectionalLight index="Back" Color="0.200000,0.235294,0.282353" ColorMultiplier="2.065000" Direction="-0.709236,0.246704,0.660395"/>
+        </ToDInfoArray>
+    </CLight>
+</Catalog>

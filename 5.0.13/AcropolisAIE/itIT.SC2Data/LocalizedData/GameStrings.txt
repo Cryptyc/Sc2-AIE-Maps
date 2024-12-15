@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Acropoli è una mappa di macrogestione relativamente piccola. Le espansioni verticali per la terza base sono facili da conquistare e proteggere. L'area centrale incoraggia lo scontro diretto nelle fasi iniziali di gioco. Distruggere le rocce apre nuovi passaggi.<n/><n/>Inviata al TeamLiquid Map Contest<n/>Creata da: RQM
+DocInfo/DescShort=1v1
+DocInfo/Name=Acropoli LE
+MapInfo/Player00/Name=Neutrale
+MapInfo/Player01/Name=Giocatore 1
+MapInfo/Player02/Name=Giocatore 2
+MapInfo/Player03/Name=Nemico

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Выберите один из пяти путей к противнику или разрушьте завалы, чтобы получить доступ к переходам между ними.<n/><n/>Автор: -NegativeZero-
+DocInfo/DescShort=1х1
+DocInfo/Name=Незваный гость РВ
+MapInfo/Player00/Name=Нейтральный
+MapInfo/Player01/Name=Игрок 1
+MapInfo/Player02/Name=Игрок 2
+MapInfo/Player03/Name=Враг

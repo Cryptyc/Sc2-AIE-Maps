@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Некоторые месторождения минералов содержат всего 5 единиц ресурса, что позволяет рабочим вырабатывать их за один заход. Собирая минералы, можно создавать новые пути наступления и расчищать места для баз.<n/><n/>Карта с конкурса Teamliquid Map Contest.<n/>Автор: RQM
+DocInfo/DescShort=1х1
+DocInfo/Name=Буревестник РВ
+MapInfo/Player00/Name=Нейтральный
+MapInfo/Player01/Name=Игрок 1
+MapInfo/Player02/Name=Игрок 2
+MapInfo/Player03/Name=Враг

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Погрузитесь в атмосферу этого прекрасного мира. Скалы помогут удерживать контроль, но не забывайте следить за флангами, если не хотите стать еще одним зарытым сокровищем...<n/><n/>Автор – SidianTheBard
+DocInfo/DescShort=1х1
+DocInfo/Name=Глубоководный риф РВ
+MapInfo/Player00/Name=Нейтральный
+MapInfo/Player01/Name=Игрок 1
+MapInfo/Player02/Name=Игрок 2
+MapInfo/Player03/Name=Враждебный

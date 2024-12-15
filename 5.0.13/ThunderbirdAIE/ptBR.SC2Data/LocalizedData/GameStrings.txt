@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Este mapa conta com Jazidas de Minérios Reduzidas, que geram 5 de minério, permitindo que elas sejam exauridas em uma viagem. Essas jazidas podem ser mineradas para desbloquear expansões adicionais ou rotas de ataque.<n/><n/>Enviado para o Concurso Teamliquid de Mapas<n/>Criado por: RQM /// This map features Reduced Minerals Fields worth 5 minerals, allowing workers to clear them with one trip.  Reduced Minerals Fields can be mined to unlock additional expansions or attack paths.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: RQM
+DocInfo/DescShort=1x1 /// 1v1
+DocInfo/Name=Pássaro Trovejante LE /// Thunderbird LE
+MapInfo/Player00/Name=Neutro /// Neutral
+MapInfo/Player01/Name=Jogador 1 /// Player 1
+MapInfo/Player02/Name=Jogador 2 /// Player 2
+MapInfo/Player03/Name=Inimigo /// Hostile

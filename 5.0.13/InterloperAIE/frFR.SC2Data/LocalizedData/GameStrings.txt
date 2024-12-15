@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Empruntez l’une des cinq voies pour atteindre votre adversaire ou détruisez les rochers pour passer librement de l’une à l’autre.<n/><n/>Créée par : -NegativeZero-
+DocInfo/DescShort=1c1
+DocInfo/Name=Île des contrebandiers EC
+MapInfo/Player00/Name=Neutre
+MapInfo/Player01/Name=Joueur 1
+MapInfo/Player02/Name=Joueur 2
+MapInfo/Player03/Name=Hostile

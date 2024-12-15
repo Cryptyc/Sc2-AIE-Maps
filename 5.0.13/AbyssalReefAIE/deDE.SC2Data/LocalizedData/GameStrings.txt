@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Tauchen Sie hinab in eine faszinierende Unterwasserwelt. Die Felsen helfen Ihnen, Ihre Position zu verstärken, aber lassen Sie nicht ihre Flanke ungedeckt, sonst enden sie als eines von unzähligen Wracks in der Tiefe ...<n/>Entwickelt von SidianTheBard.
+DocInfo/DescShort=1vs1
+DocInfo/Name=Tiefseeriff LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Spieler 1
+MapInfo/Player02/Name=Spieler 2
+MapInfo/Player03/Name=Feindlich

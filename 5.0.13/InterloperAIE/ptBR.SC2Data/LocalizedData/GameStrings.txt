@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Escolha um de cinco caminhos para chegar ao oponente ou destrua as rochas para liberar a movimentação entre eles.<n/><n/>Criado por: -NegativeZero-
+DocInfo/DescShort=1x1
+DocInfo/Name=Intruso ER
+MapInfo/Player00/Name=Neutro
+MapInfo/Player01/Name=Jogador 1
+MapInfo/Player02/Name=Jogador 2
+MapInfo/Player03/Name=Inimigo

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrain id="Elsecaro">
+        <BlendTextures index="1" value="XilDirtCracked"/>
+        <BlendTextures index="2" value="AgriaRock"/>
+        <BlendTextures index="3" value="ShakurasSandDark"/>
+        <BlendTextures index="4" value="ElsecaroCity3"/>
+        <BlendTextures index="5" value="RedstoneMud"/>
+        <BlendTextures index="6" value="HybridLabXelNaga8"/>
+        <BlendTextures index="7" value="IceWorldEx2_8"/>
+        <Ambience value="Ambience_BelShir"/>
+        <FogColor value="255,0,253,255"/>
+        <FogDensity value="20.000000"/>
+        <FogFalloff value="0.200000"/>
+        <FogStartingHeight value="-28.500000"/>
+        <Gravity value="1.000000"/>
+    </CTerrain>
+</Catalog>

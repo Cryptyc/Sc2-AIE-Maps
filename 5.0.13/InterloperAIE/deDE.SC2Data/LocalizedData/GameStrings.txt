@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Wählen Sie einen von fünf Pfaden zu Ihrem Gegner oder zerstören Sie die Felsen, um sich frei zwischen ihnen bewegen zu können.<n/><n/>Entwickelt von: -NegativeZero-
+DocInfo/DescShort=1vs1
+DocInfo/Name=Eindringling LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Spieler 1
+MapInfo/Player02/Name=Spieler 2
+MapInfo/Player03/Name=Feindlich

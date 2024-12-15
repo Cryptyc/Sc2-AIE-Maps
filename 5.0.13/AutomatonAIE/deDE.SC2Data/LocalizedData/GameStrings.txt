@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Auf dieser Karte sind zwischen den Hauptbasen relativ kurze Luftwege. Die Expansionen liegen jedoch geschützter.<n/>Eingereicht zum Kartenwettbewerb von TeamLiquid<n/>Entwickelt von RQM
+DocInfo/DescShort=1vs1
+DocInfo/Name=Automaton LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Spieler 1
+MapInfo/Player02/Name=Spieler 2
+MapInfo/Player03/Name=Feindlich

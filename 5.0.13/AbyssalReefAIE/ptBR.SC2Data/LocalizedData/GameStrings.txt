@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Mergulhe no belo mundo inferior. As rochas vão ajudar você a tomar o controle, mas cuidado com os flancos para não virar outro tesouro subterrâneo...<n/><n/>Feito por:<n/>SidianTheBard
+DocInfo/DescShort=1x1
+DocInfo/Name=Recife Abissal LE
+MapInfo/Player00/Name=Neutro
+MapInfo/Player01/Name=Jogador 1
+MapInfo/Player02/Name=Jogador 2
+MapInfo/Player03/Name=Hostil

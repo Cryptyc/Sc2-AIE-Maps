@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Akropolis ist eine kleine Makrokarte. Das Expansionsmuster bis zur dritten Basis verläuft vertikal, wodurch die Basen leichter einzunehmen und zu verteidigen sind. Der zentrale Bereich bietet sich für direkte Begegnungen im frühen Spielverlauf an. Das Zerstören von Felsen öffnet weitere Passagen.<n/><n/>Eingereicht zum Kartenwettbewerb von TeamLiquid<n/>Entwickelt von RQM
+DocInfo/DescShort=1vs1
+DocInfo/Name=Akropolis LE /// Acropolis LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Spieler 1
+MapInfo/Player02/Name=Spieler 2
+MapInfo/Player03/Name=Feindlich

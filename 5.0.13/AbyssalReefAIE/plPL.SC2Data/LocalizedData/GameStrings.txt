@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Podziwiaj piękno tego wspaniałego świata. Skały pozwolą ci kontrolować teren, ale uważaj na flanki, inaczej pójdziesz spać z rybami, jak inni...<n/><n/>Autor:<n/>SidianTheBard
+DocInfo/DescShort=1 na 1
+DocInfo/Name=Rafa otchłani ER
+MapInfo/Player00/Name=Neutralny
+MapInfo/Player01/Name=Gracz 1
+MapInfo/Player02/Name=Gracz 2
+MapInfo/Player03/Name=Wróg

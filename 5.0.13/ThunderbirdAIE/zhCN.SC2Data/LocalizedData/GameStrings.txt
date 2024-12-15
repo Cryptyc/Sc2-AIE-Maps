@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=这张地图上的某些位置设置了价值5点晶体矿的矿点，工人能一次性采集掉它们。采集这些矿点还可以打开额外的扩张点，或发现进攻敌人的新线路。<n/><n/>Teamliquid参赛作品<n/>作者：RQM /// This map features Reduced Minerals Fields worth 5 minerals, allowing workers to clear them with one trip.  Reduced Minerals Fields can be mined to unlock additional expansions or attack paths.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: RQM
+DocInfo/DescShort=1v1 /// 1v1
+DocInfo/Name=雷鸟-天梯版 /// Thunderbird LE
+MapInfo/Player00/Name=中立 /// Neutral
+MapInfo/Player01/Name=玩家1 /// Player 1
+MapInfo/Player02/Name=玩家2 /// Player 2
+MapInfo/Player03/Name=敌对 /// Hostile

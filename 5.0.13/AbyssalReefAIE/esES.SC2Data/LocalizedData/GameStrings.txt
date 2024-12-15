@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Sumérgete en el hermoso mundo subterráneo. Las rocas te ayudarán a hacerte con el control, pero vigila tu flanco si no quieres convertirte en otro tesoro de las profundidades...<n/><n/>Creado por:<n/>SidianTheBard
+DocInfo/DescShort=1vs1
+DocInfo/Name=Arrecife Abisal EJ
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

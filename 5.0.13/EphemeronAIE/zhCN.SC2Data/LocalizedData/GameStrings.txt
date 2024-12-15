@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=一系列的小桥和坡道有利于防守，同时也强调了站位的意识。摧毁岩石可以打开更宽阔、更畅通无阻的前往高地的进攻路线。<n/><n/>Teamliquid地图比赛参赛作品<n/>作者：-NegativeZero- /// A series of small bridges and ramps aid in defense and emphasize positional awareness.  Destroy the rocks to open up larger, unobstructed attack paths across the high grounds.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: -NegativeZero-
+DocInfo/DescShort=1v1
+DocInfo/Name=伊菲莫隆-天梯版 /// Ephemeron LE
+MapInfo/Player00/Name=中立
+MapInfo/Player01/Name=玩家1
+MapInfo/Player02/Name=玩家2
+MapInfo/Player03/Name=敌对

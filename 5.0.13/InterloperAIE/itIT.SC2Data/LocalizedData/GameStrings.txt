@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Ci sono cinque percorsi per raggiungere l'avversario: distruggere le rocce consente di spostarsi liberamente tra di essi.<n/><n/>Creata da: -NegativeZero-
+DocInfo/DescShort=1v1
+DocInfo/Name=Intrusione LE
+MapInfo/Player00/Name=Neutrale
+MapInfo/Player01/Name=Giocatore 1
+MapInfo/Player02/Name=Giocatore 2
+MapInfo/Player03/Name=Nemico

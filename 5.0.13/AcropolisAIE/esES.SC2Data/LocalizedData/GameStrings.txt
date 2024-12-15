@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Acrópolis es un mapa relativamente pequeño para la macro. Las expansiones de tercera base verticales son más fáciles de adquirir y de proteger en este mapa. La zona del centro anima al conflicto directo al principio de la partida. Destruir rocas despeja más pasajes.<n/><n/>Enviado al concurso de mapas de Teamliquid.<n/>Creado por: RQM
+DocInfo/DescShort=1 vs 1
+DocInfo/Name=Acrópolis EJ
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=潜入大海，探索美丽的水下世界。岩石能帮你协防，但是要随时注意你的侧翼，别让自己成为海底遗迹……<n/><n/>作者：<n/>SidianTheBard /// Take a plunge into the beautiful world below. Rocks will help you take contro,l but watch your flank or become just another hidden treasure beneath...<n/><n/>Made By:<n/>SidianTheBard
+DocInfo/DescShort=1v1
+DocInfo/Name=深海暗礁 - 天梯版 /// Abyssal Reef LE
+MapInfo/Player00/Name=中立
+MapInfo/Player01/Name=玩家1
+MapInfo/Player02/Name=玩家2
+MapInfo/Player03/Name=敌对

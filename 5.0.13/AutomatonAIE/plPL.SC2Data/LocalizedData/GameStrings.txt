@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Główne bazy na tej mapie dzieli względnie niewielka odległość drogą powietrzną, ale miejsca pod ekspansję są lepiej chronione.<n/><n/>Mapa zgłoszona na konkurs Teamliquid<n/>Autor: RQM
+DocInfo/DescShort=1 na 1
+DocInfo/Name=Automaton ER
+MapInfo/Player00/Name=Neutralny
+MapInfo/Player01/Name=Gracz 1
+MapInfo/Player02/Name=Gracz 2
+MapInfo/Player03/Name=Wróg

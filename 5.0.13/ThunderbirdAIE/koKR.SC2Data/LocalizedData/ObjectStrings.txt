@@ -1,0 +1,1 @@
+﻿Terrain/EditorPrefix/ShakurasTemple=(Void)

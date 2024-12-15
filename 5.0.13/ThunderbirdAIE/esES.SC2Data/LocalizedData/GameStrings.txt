@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Este mapa contiene campos de minerales reducidos de 5 minerales, lo que permite a los trabajadores agotarlos en un viaje. Los campos de minerales reducidos se pueden agotar para desbloquear expansiones adicionales o rutas de ataque.<n/><n/>Enviado al concurso de mapas de Teamliquid.<n/>Creado por: RQM
+DocInfo/DescShort=1 vs 1
+DocInfo/Name=Pájaro de trueno EJ
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil

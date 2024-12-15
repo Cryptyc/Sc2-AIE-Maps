@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=I giacimenti minerari ridotti forniscono 5 minerali, consentendo ai lavoratori di raccoglierli in un viaggio. Questi giacimenti minerari possono essere rimossi per sbloccare altre espansioni o percorsi d'attacco.<n/><n/>Inviata al TeamLiquid Map Contest<n/>Creata da: RQM
+DocInfo/DescShort=1v1
+DocInfo/Name=Uccello del tuono LE
+MapInfo/Player00/Name=Neutrale
+MapInfo/Player01/Name=Giocatore 1
+MapInfo/Player02/Name=Giocatore 2
+MapInfo/Player03/Name=Nemico

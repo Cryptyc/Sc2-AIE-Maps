@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=双方主基地在直线距离上很近，而且扩张点也很容易防守。<n/><n/>Teamliquid参赛作品<n/>作者：RQM /// This map features main bases that are relatively close together by air, but the expansions are more protected.<n/><n/>Submitted to Teamliquid Map Contest<n/>Created by: RQM
+DocInfo/DescShort=1v1 /// 1v1
+DocInfo/Name=机械城-天梯版 /// Automaton LE
+MapInfo/Player00/Name=中立 /// Neutral
+MapInfo/Player01/Name=玩家1 /// Player 1
+MapInfo/Player02/Name=玩家2 /// Player 2
+MapInfo/Player03/Name=敌对 /// Hostile

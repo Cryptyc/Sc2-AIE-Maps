@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTerrainTex id="HavenGrassRocky">
+        <Normalmap value="Assets\Textures\volcanoisle_3normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="TyradorRubble">
+        <Normalmap value="Assets\Textures\volcanoisle_3normal.dds"/>
+    </CTerrainTex>
+    <CTerrainTex id="VolcanoIsle_4">
+        <Normalmap value="Assets\Textures\korhalwastes_5normal.dds"/>
+    </CTerrainTex>
+</Catalog>

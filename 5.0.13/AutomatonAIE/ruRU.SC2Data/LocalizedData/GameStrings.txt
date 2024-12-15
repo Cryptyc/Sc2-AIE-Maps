@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=На этой карте до основных баз можно быстро добраться по воздуху, но места для дополнительных защищены гораздо лучше.<n/><n/>Карта с конкурса Teamliquid Map Contest.<n/>Автор: RQM
+DocInfo/DescShort=1х1
+DocInfo/Name=Автоматон РВ
+MapInfo/Player00/Name=Нейтральный
+MapInfo/Player01/Name=Игрок 1
+MapInfo/Player02/Name=Игрок 2
+MapInfo/Player03/Name=Враг

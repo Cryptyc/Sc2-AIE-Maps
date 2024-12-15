@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Na mapie znajdują się zubożone pola minerałów warte 5 jednostek surowca, co pozwala jednostkom robotniczym na eksploatację w trakcie jednej wyprawy. Po oczyszczeniu tych pól można uzyskać dostęp do dodatkowych miejsc pod ekspansję lub dróg ataku.<n/><n/>Mapa zgłoszona na konkurs Teamliquid<n/>Autor: RQM
+DocInfo/DescShort=1 na 1
+DocInfo/Name=Ptak Gromu ER
+MapInfo/Player00/Name=Neutralny
+MapInfo/Player01/Name=Gracz 1
+MapInfo/Player02/Name=Gracz 2
+MapInfo/Player03/Name=Wróg

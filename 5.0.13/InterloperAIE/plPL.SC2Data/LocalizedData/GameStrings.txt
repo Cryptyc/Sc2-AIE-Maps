@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=Obierz jedną z pięciu dróg ataku, aby dotrzeć do wroga albo zniszcz skały, aby pozwolić na swobodne przechodzenie między drogami.<n/><n/>Autor: -NegativeZero-
+DocInfo/DescShort=1 na 1
+DocInfo/Name=Intruz ER
+MapInfo/Player00/Name=Neutralny
+MapInfo/Player01/Name=Gracz 1
+MapInfo/Player02/Name=Gracz 2
+MapInfo/Player03/Name=Wróg
