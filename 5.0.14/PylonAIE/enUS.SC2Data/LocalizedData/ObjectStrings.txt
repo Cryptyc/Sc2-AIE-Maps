@@ -1,0 +1,3 @@
+﻿Light/Name/EditorTestLight=default
+TerrainTex/Name/Elsecaro12=Elsecaro12
+Water/Name/Shakuras2=Shakuras2

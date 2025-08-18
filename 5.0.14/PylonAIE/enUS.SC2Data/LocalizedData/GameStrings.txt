@@ -1,0 +1,7 @@
+﻿DocInfo/DescLong=A high risk, high reward rich gas base doubles as a mineral wall leaving it exposed and opens up after mining out. Double light bridges in the center are not buildable or burrowable. Several open spaces contrast several tighter spots for a variety of engagent types.
+DocInfo/DescShort=2
+DocInfo/Name=Pylon LE
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Player 1
+MapInfo/Player02/Name=Player 2
+MapInfo/Player03/Name=Hostile
